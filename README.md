@@ -53,6 +53,16 @@ cd deepgaze
 python setup.py install
 ```
 
+Downloading Models
+
+create a folder models and download models from https://drive.google.com/file/d/1NmObRRyf8invCaQQNpjL4c_wjoLyQ4_J/view?usp=sharing
+in it.
+
+setting up GazeML
+from https://github.com/swook/GazeML setup GazeMl.Instruction is given at the site.
+
+
+
 ### Setting up virtual environment (Optional)
 
 Run the following commands in the project directory:
